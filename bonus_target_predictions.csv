@@ -1,0 +1,8 @@
+Model,Target_Predicted_Price
+RandomForest (Grouped Features),566.0005911769811
+RandomForest (Full Features),600.8215401745156
+Ridge (Grouped Features),818.0982944330333
+Linear (Grouped Features),818.173764304357
+Lasso (Full Features),1372.6517190455816
+Linear (Full Features),1380.4476273240318
+Ridge (Full Features),1380.5966295821318

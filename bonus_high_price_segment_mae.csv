@@ -1,0 +1,8 @@
+Model,HighPrice_MAE
+Linear (Full Features),272.4336933653025
+Ridge (Full Features),272.41702978401327
+Lasso (Full Features),272.31462630198513
+RandomForest (Full Features),205.76828979996262
+Linear (Grouped Features),294.77984826145666
+Ridge (Grouped Features),294.7815571930247
+RandomForest (Grouped Features),226.49283518466908

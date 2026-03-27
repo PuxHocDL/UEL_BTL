@@ -121,7 +121,7 @@ Dưới sự trợ lực từ thư viện `sklearn`, dữ liệu được xử l
 
 ### B. Bàn Luận (Discussion) & Đưa Ra Kết Luận (Conclusion)
 * **Trực quan hiệu suất kỹ thuật (Performance Breakdown):** Việc dũng cảm thay đổi cơ chế Scaling và ép hệ phương trình Logarit đã **giảm RMSE của Random Forest từ một mốc tồi tệ (266) chìm thẳng xuống còn 103** (Cải thiện độ chính xác ròng rã hơn 60%). Chỉ số R² thể hiện độ chặt của mô hình nhân đôi lên **0.65**. Random Forest, như đã khẳng định ở Câu 3 và Câu 5, là ông vua tuyệt đối cho Data Bất động sản này.
-* **Định mức chuẩn hệ thống:** Với ma trận tính toán độ nặng của (10 sức chứa + 5 phòng ngủ + Biển Bondi + Siêu cọc $1500), thuật toán máy học RF tốt nhất đã chốt định giá "Công bằng - Fair Value" cho căn hộ này tại thị trường địa phương là **$\sim\$615.36** /đêm.
+* **Định mức chuẩn hệ thống:** Với ma trận tính toán độ nặng của (10 sức chứa + 5 phòng ngủ + Biển Bondi + Siêu cọc $1500), thuật toán máy học RF tốt nhất đã chốt định giá "Công bằng - Fair Value" cho căn hộ này tại thị trường địa phương là ~615.36** /đêm.
 
 ### C. Khuyến Nghị Hành Động (Actionable Recommendations)
 * **Phán xét đối với mức giá Chủ Nhà đang đặt:** Hiện tại, giá khách cấu hình $500/đêm là một sự **THẤT THU (Undervaluation)**. Hệ thống mô hình đã dọn sạch các căn ảo báo hiệu giá trị lô đất và số lượng sức chứa khổng lồ này có thể gánh vác mức giá cao hơn rất nhiều.

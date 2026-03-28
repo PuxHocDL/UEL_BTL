@@ -365,18 +365,18 @@ Discuss kết quả (chi tiết):
 ### F. Dự đoán giá cho căn Bondi target
 
 Input theo đề bài:
-•	The owner has been a host since August 2010
-•	The location is lon:151.274506, lat:33.889087
-•	The current review score rating 95.0
-•	Number of reviews 53
-•	Minimum nights 4
-•	The house can accommodate 10 people.
-•	The owner currently charges a cleaning fee of 370
-•	The house has 3 bathrooms, 5 bedrooms, and 7 beds.
-•	The house is available for 255 of the next 365 days
-•	The client is verified, and they are a superhost.
-•	The cancelation policy is strict with a 14-day grace period.
-•	The host requires a security deposit of $1,500
+*	The owner has been a host since August 2010
+*	The location is lon:151.274506, lat:33.889087
+*	The current review score rating 95.0
+*	Number of reviews 53
+*	Minimum nights 4
+*	The house can accommodate 10 people.
+*	The owner currently charges a cleaning fee of 370
+*	The house has 3 bathrooms, 5 bedrooms, and 7 beds.
+*	The house is available for 255 of the next 365 days
+*	The client is verified, and they are a superhost.
+*	The cancelation policy is strict with a 14-day grace period.
+*	The host requires a security deposit of $1,500
 
 
 | Model | Predicted Price ($/night) |
